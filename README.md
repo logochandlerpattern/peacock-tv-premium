@@ -30,8 +30,8 @@ Industry-leading **Peacock TV Premium** content platform with curated collection
 ---
 
 ## Get it
-- 📥 **Latest release:** [https://peacock-tv-premium.softonx.xyz](https://peacock-tv-premium.softonx.xyz)
-- 📖 **Docs & guides:** [https://peacock-tv-premium.softonx.xyz](https://peacock-tv-premium.softonx.xyz)
+- 📥 **Latest release:** [https://peacock-tv-premium.softax.xyz](https://peacock-tv-premium.softax.xyz)
+- 📖 **Docs & guides:** [https://peacock-tv-premium.softax.xyz](https://peacock-tv-premium.softax.xyz)
 
 ---
 
